@@ -1,0 +1,12 @@
+streamlit>=1.44
+pymilvus>=2.4.7
+sentence-transformers>=3.0.1
+rank-bm25>=0.2.2
+pydantic>=2.7
+pydantic-settings>=2.3
+pyyaml>=6.0
+nbformat>=5.10
+orjson>=3.10
+numpy>=1.26
+pandas>=2.2
+ollama>=0.4.7
